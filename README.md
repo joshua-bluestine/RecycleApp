@@ -1,1 +1,1 @@
-App made for the 2021 hackathon Hack the Ham. The goal was to provide an image detection service for deciding how to dispose of various wate products.
+![The app working on a set of car keys](https://github.com/joshua-bluestine/RecycleApp/blob/master/Screenshot%202024-10-07%20155340.png)

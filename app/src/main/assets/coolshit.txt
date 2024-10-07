@@ -1,0 +1,7 @@
+cardboard
+metal
+paper
+furniture
+plastic
+styrofoam
+glass
